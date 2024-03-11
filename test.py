@@ -11,4 +11,4 @@ def myFunc():
 
 
 def otherFunc():
-    return "b"
+    return "4"
