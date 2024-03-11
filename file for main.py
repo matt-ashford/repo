@@ -1,6 +1,7 @@
 print("file for main")
 
 b = 6
+v = 7
 
 
 def myFunc(varrrr):
